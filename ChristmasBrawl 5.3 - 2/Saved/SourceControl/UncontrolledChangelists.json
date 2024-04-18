@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Ethan Stafford/Documents/Unreal Projects/StaffordE_SraffordQ/ChristmasBrawl 5.3 - 2/Content/StarterContent/Materials/M_AssetPlatform.uasset",
+				"C:/Users/Ethan Stafford/Documents/Unreal Projects/StaffordE_SraffordQ/ChristmasBrawl 5.3 - 2/Content/Levels/Level1.umap"
+			]
+		}
+	]
+}
